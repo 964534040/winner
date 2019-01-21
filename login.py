@@ -14,4 +14,10 @@ if __name__ == '__main__':
 
 def index():
     print('login info')
-sgdg
+# # <<<<<<< HEAD
+# sgdg
+# =======
+#
+#
+# jingli
+# >>>>>>> 2db8e7f8c551a9c6fa767cc99d8243eb368aa80d
