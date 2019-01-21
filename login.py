@@ -17,6 +17,4 @@ def index():
 
 
 
-jingli 
-dingyi 
 
